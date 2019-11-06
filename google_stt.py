@@ -83,6 +83,7 @@ def transcribe_gcs(gcs_uri):
 ## Upload test file to GCS
 
 ## Transcribe Test File
+## Try with shorter file "Baltimore Short.mp3"
 
 filename_mp3 = "G:\My Drive\AVP_data\polis_api\\audio\Audio_202405 - Camilla Camargo.MP3"
 filename_wav = "G:\My Drive\AVP_data\polis_api\\audio\Audio_202405 - Camilla Camargo.wav"
